@@ -1,0 +1,1 @@
+An expense tracker in MERN stack 
