@@ -10,4 +10,6 @@ step 2: set up frontend
 1. created dir (components, context, hooks, pages, utils) in the src dir
 2. pages dir has - (auth/login.jsx and signup.jsx) and (dashboard/home.jsx, income.jsx, expense.jsx)
 3. utils dir has apiPath.js, data.js, helper.js
+4. custom theme in tailwind css, in index.css file.
+5. install dependencies
 
